@@ -134,7 +134,7 @@ SectionPagesMenu = "Main"
 
             name = "About"
             link = "/about/"
-            image = "/img/tech.jpg"
+            image = "/img/about.png"
 
         [[Params.Cells.List]]
 
@@ -175,7 +175,7 @@ SectionPagesMenu = "Main"
 
             name = "Gallery"
             link = "/gallery/"
-            image = "/img/advice.jpg"
+            image = "/img/mex.jpg"
 
         [[Params.Cells.List]]
 
@@ -189,11 +189,11 @@ SectionPagesMenu = "Main"
 
             name = "Professional"
             link = "/professional/"
-            image = "/img/advice.jpg"
+            image = "/img/ITP.jpg"
 
         [[Params.Cells.List]]
 
             name = "Workouts"
             link = "/workouts/"
-            image = "/img/advice.jpg"
+            image = "/img/weight.jpg"
 
