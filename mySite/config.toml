@@ -4,6 +4,10 @@ languageCode = "en-us"
 title = "David-Williams"
 theme = "grid-side"
 copyright = "Copyright 2016; David Williams"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
 
 # The theme uses pagination for post, gallery, and project listings.
 #paginate = 12
