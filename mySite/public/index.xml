@@ -114,15 +114,6 @@ Institute of Electrical and Electronics Engineers (IEEE), Capitol College 08/201
     </item>
     
     <item>
-      <title>2nd</title>
-      <link>http://dmwilliamstech.github.io/gh-pages/professional/2nd/</link>
-      <pubDate>Mon, 09 May 2016 12:31:48 -0500</pubDate>
-      
-      <guid>http://dmwilliamstech.github.io/gh-pages/professional/2nd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>about</title>
       <link>http://dmwilliamstech.github.io/gh-pages/about/</link>
       <pubDate>Mon, 09 May 2016 10:42:29 -0500</pubDate>
@@ -141,6 +132,37 @@ Institute of Electrical and Electronics Engineers (IEEE), Capitol College 08/201
       <pubDate>Mon, 09 May 2016 10:42:05 -0500</pubDate>
       
       <guid>http://dmwilliamstech.github.io/gh-pages/post/First-Post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dmwilliamstech.github.io/gh-pages/gallery/skins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dmwilliamstech.github.io/gh-pages/gallery/skins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Up</title>
+      <link>http://dmwilliamstech.github.io/gh-pages/gallery/me%20and%20kay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dmwilliamstech.github.io/gh-pages/gallery/me%20and%20kay/</guid>
+      <description>&lt;p&gt;+++
+title = &amp;ldquo;Up&amp;rdquo;
+image = &amp;ldquo;/img/me and kay.jpg&amp;rdquo;
++++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Up</title>
+      <link>http://dmwilliamstech.github.io/gh-pages/gallery/up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dmwilliamstech.github.io/gh-pages/gallery/up/</guid>
       <description></description>
     </item>
     
