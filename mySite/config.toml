@@ -1,5 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://dmwilliamstech.github.io/gh-pages/"
 languageCode = "en-us"
 title = "David-Williams"
 theme = "grid-side"
